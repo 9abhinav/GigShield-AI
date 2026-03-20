@@ -97,4 +97,4 @@ GigShield-AI/
 │   ├── package.json
 │   └── vite.config.js
 │
-└── screenshots/              # UI images (optional)
+└── screenshots               # UI images (optional)
