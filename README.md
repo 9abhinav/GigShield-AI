@@ -1,4 +1,4 @@
-<![CDATA[# 🛡️ GigShield AI — Parametric Insurance for Gig Workers
+🛡️ GigShield AI — Parametric Insurance for Gig Workers
 
 **GigShield AI** is a full-stack, AI-powered parametric insurance platform that protects gig workers (Zomato, Swiggy, Zepto, etc.) from income loss caused by environmental disruptions like heavy rain, extreme heat, and high pollution — with **zero-touch, instant claim payouts**.
 
